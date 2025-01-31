@@ -19,17 +19,20 @@ The API is designed to be lightweight and easy to use, making it suitable for in
 
 
 ### Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/your-repo.git
-   cd your-repo
+## 1. Clone the repository:
+- bash
+- git clone https://github.com/yourusername/your-repo.git
+- cd your-repo
 
-2. Create a virtual environment and activate it:
-python -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
+## 2. Create a virtual environment and activate it:
+- python -m venv venv
+- source venv/bin/activate  # On Windows: venv\Scripts\activate
 
-3.Install the required dependencies:
-pip install -r requirements.txt
+## 3 .Install the required dependencies:
+- pip install -r requirements.txt
 
-4.Run the Django development server:
-python manage.py runserver
+## 4.Run the Django development server:
+- python manage.py runserver
+
+## 5 Backlink
+- [Link](https://hng.tech/hire/python-developers)
